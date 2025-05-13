@@ -54,6 +54,7 @@ while True:
  conn.close()
 ```
 ## OUPUT
+![image](https://github.com/user-attachments/assets/41057b6a-41f2-474b-9add-7884a95f3708)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
